@@ -1,0 +1,18 @@
+/* ..alertover{ */
+	/* visibility:hidden; */
+	/* opacity:0; */
+	/* transition:all 0.3s ease; */
+/* } */
+
+/* .accordion-header:hover .alertover{ */
+		/* visibility:visible; */
+	/* opacity:1; */
+	
+	
+	
+/* } */
+/* .accordion-header .accordion-button:hover .accordion-item */
+/* { */
+	/* background-color:yellow; */
+	/* border:2px solid red; */
+/* } */
